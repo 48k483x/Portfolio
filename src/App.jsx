@@ -10,14 +10,14 @@ function App() {
         <Navbar />
         <Hero />
       </div>
-        <About />
+        {/* <About />
         <Experience />
         <Tech />
         <Works />
-        <Feedbacks />
+        <Feedbacks /> */}
       <div className="relative z-0">
-        <Contact />
-        <StarsCanvas />
+        {/* <Contact />
+        <StarsCanvas /> */}
       </div>
     </div>
     </BrowserRouter>
