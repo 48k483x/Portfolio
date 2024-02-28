@@ -10,6 +10,8 @@ function App() {
         <Navbar />
         <Hero />
       </div>
+      <About />
+
     </div>
     </BrowserRouter>
   )
