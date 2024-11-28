@@ -34,16 +34,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      I am a dedicated computer science student,
-      specializing in cybersecurity and data analysis. 
-      Proficient in Python, TensorFlow, and Scikit-Learn,
-      I have a keen interest in pioneering the future of
-      web development. I excel in incorporating 
-      cutting-edge 3D elements using technologies such as
-      Three.js. My commitment lies in securing data and 
-      delivering immersive online experiences that push 
-      the boundaries of innovation. Let's collaborate to 
-      make your vision a reality!
+      Learning ASM
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
